@@ -52,4 +52,8 @@ class Player:
     def show_partial(self, reveal):
         print(f"{self.name}'s hand:")
         for i, card in enumerate(self.hand):
-            print(" -", card if i < reveal else " - [Face Down]")
+            if i < reveal:
+                print(" -", card)
+            else:
+                print(" - [Face Down]")
+
