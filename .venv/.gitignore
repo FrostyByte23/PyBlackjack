@@ -1,0 +1,24 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# PyCharm / JetBrains project files
+.idea/
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Jupyter Notebook checkpoints (if you ever use .ipynb files)
+.ipynb_checkpoints/
