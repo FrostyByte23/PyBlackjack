@@ -1,6 +1,6 @@
 #  PyBlackjack
 
-**PyBlackjack** is a simple command-line Blackjack game written in Python. Play against a computer-controlled dealer, place bets, and try to beat the house!
+**PyBlackjack** is a simple command line Blackjack game written in Python. Play against a computer controlled dealer, place bets, and try to beat the house!
 
 ---
 
