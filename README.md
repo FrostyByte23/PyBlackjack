@@ -9,7 +9,7 @@
 - Blackjack mechanics: hit, stand, busts, 21
 - Dealer logic with automatic drawing
 - Balance tracking and betting system
-- Clean terminal-based gameplay
+- Clean terminal based gameplay
 
 ---
 
